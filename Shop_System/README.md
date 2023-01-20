@@ -5,15 +5,18 @@
 1. Owner Window.
 2. User Window.
 
-**Owner Window**
+**[Owner Window]**
+
 To Enter Owner Window, Owner must use correct Password.
 
 After Entering The Correct Password, Owner can perform Some actions Such as:
+
 1. Add New Items.
 2. Change The Price of Specific Item
 3. Delete an Item
 
-**Client Window**
+**[Client Window]**
+
 Client Can Buy From the Market and Print The Bill with the Total Price 
 
 ### Check This Video
